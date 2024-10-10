@@ -1,0 +1,5 @@
+LoginPage.class
+com\mycompany\studentmanagementsystem\JakartaRestConfiguration.class
+com\mycompany\studentmanagementsystem\resources\JakartaEE10Resource.class
+Student.class
+AttendanceServlet.class
